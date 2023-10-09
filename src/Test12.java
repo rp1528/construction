@@ -6,6 +6,8 @@ public class Test12 {
 		System.out.println("AAAAAAA");
 		
 		System.out.println("BBBBBB");
+		
+		System.out.println("TC02");
 	}
 
 }
